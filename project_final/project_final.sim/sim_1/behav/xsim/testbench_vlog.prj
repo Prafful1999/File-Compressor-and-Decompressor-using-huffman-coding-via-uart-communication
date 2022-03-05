@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_final.srcs/sources_1/imports/fpgaproject/decode.v" \
+"../../../../project_final.srcs/sources_1/imports/fpgaproject/decode_datain.v" \
+"../../../../project_final.srcs/sources_1/imports/fpgaproject/decode_intdata.v" \
+"../../../../project_final.srcs/sim_1/imports/fpgaproject/decode_testbench_for_simulation.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

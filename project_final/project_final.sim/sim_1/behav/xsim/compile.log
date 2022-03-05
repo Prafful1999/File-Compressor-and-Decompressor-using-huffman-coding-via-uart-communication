@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/fpgaproject/project_final/project_final.srcs/sources_1/imports/fpgaproject/decode.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decode
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/fpgaproject/project_final/project_final.srcs/sources_1/imports/fpgaproject/decode_datain.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decode_datain_ram
+INFO: [VRFC 10-311] analyzing module decode_datain
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/fpgaproject/project_final/project_final.srcs/sources_1/imports/fpgaproject/decode_intdata.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decode_intdata_ram
+INFO: [VRFC 10-311] analyzing module decode_intdata
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/fpgaproject/project_final/project_final.srcs/sim_1/imports/fpgaproject/decode_testbench_for_simulation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
